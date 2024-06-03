@@ -13,7 +13,6 @@ A FiveM script that provides an in-game tint meter for checking car window tints
 
 ## Screenshots
 
-![UI](/screenshots/Screenshot%202024-06-03%20201342.png)
 ![UI](/screenshots/Screenshot%202024-06-03%20201416.png)
 ![UI](/screenshots/Screenshot%202024-06-03%20201454.png)
 
