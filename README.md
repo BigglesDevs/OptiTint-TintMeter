@@ -85,4 +85,4 @@ This project is licensed under the MIT License. See the [LICENSE](path/to/LICENS
 - Inspiration from various FiveM scripts and resources.
 
 # Contributors
-[![Contributors](https://contrib.rocks/image?repo=BigglesDevs/OptiTint)](https://github.com/yourusername/yourrepository/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=BigglesDevs/OptiTint-TintMeter)](https://github.com/yourusername/yourrepository/graphs/contributors)
