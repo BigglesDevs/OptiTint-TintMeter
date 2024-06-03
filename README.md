@@ -82,4 +82,4 @@ This project is licensed under the MIT License. See the [LICENSE](path/to/LICENS
 
 ## Contributors 👷‍♂️
 
-[![Contributors](https://contrib.rocks/image?repo=BigglesDevs/OptiTint-TintMeter)]
+[![Contributors](https://contrib.rocks/image?repo=BigglesDevs/OptiTint-TintMeter)](https://github.com/BigglesDevs)
