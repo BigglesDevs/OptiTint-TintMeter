@@ -1,4 +1,4 @@
-# TintMeter
+# OptiTint-TintMeter  v1.0 (FreeRlease) 
 
 **Developed by BigglesDevelopment 💖**
 
@@ -13,29 +13,30 @@ A FiveM script that provides an in-game tint meter for checking car window tints
 
 ## Screenshots
 
-![UI](path/to/your/screenshot1.png)
-![Error Notification](path/to/your/screenshot2.png)
+![UI](/screenshots/Screenshot%202024-06-03%20201342.png)
+![UI](/screenshots/Screenshot%202024-06-03%20201416.png)
+![UI](/screenshots/Screenshot%202024-06-03%20201454.png)
 
 ## Installation
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/TintMeter.git
+    git clone https://github.com/BigglesDevs/OptiTint-TintMeter
     ```
 
 2. Navigate to the `TintMeter` directory:
     ```sh
-    cd TintMeter
+    cd OptiTint-TintMeter
     ```
 
-3. Place the `TintMeter` folder into your FiveM resources directory:
+3. Place the `OptiTint-TintMeter` folder into your FiveM resources directory:
     ```sh
-    cp -r TintMeter /path/to/your/fivem/server/resources/
+    cp -r OptiTint-TintMeter /path/to/your/fivem/server/resources/
     ```
 
 4. Add the resource to your `server.cfg`:
     ```sh
-    ensure TintMeter
+    ensure OptiTint-TintMeter
     ```
 
 ## Usage
